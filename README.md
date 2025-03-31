@@ -1,7 +1,7 @@
 ## 🌾 Farm Disease Detection  
 
 An AI-powered web application to detect **Poultry, Potato, and Crop Diseases** from images.  
-
+🔗 **Live Demo**: [Farm Disease Detection](https://farm-disease-detection.streamlit.app/)
 ### 🚀 Features  
 - 📷 Upload images for disease detection  
 - 🎯 Supports **Poultry, Potato, and Crop Diseases**  
